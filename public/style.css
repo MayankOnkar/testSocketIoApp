@@ -1,0 +1,25 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    
+    width: 400px;
+    height: auto;
+    background-color: #ccc;
+}
+
+button{
+    background-color: #000;
+    color: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.ipContainer{
+margin:40px auto;
+}
+
